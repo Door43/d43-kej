@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kej:home|Door43 (kej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kej|d43-kej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kej/archive/master.zip|d43-kej.zip]]
+
+**Recent Changes**
+{{changes>ns = kej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kej|Ethnologue data]]
+
